@@ -1,5 +1,5 @@
 # NLPP_CHN
-本文档包含New Love Plus+游戏字幕机翻汉化数据文件、文本源文件及开发文件
+本文档包含New Love Plus+游戏字幕机翻汉化数据文件、文本源文件及开发文件。
 由于本文档仅包含字幕文件，需配合NLPPGit使用!
 因NLPPGit字库问题，导入本文档字幕文件后基本属于不可用状态。[IMG_0240](https://user-images.githubusercontent.com/80207563/110263053-7e227c80-7ff0-11eb-8fc5-b7c2c98b3022.jpeg)
 
