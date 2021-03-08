@@ -1,7 +1,7 @@
 # NLPP_CHN
 本文档包含New Love Plus+游戏字幕机翻汉化数据文件、文本源文件及开发文件。
 由于本文档仅包含字幕文件，需配合NLPPGit使用!
-因NLPPGit字库问题，导入本文档字幕文件后基本属于不可用状态。[IMG_0240](https://user-images.githubusercontent.com/80207563/110263053-7e227c80-7ff0-11eb-8fc5-b7c2c98b3022.jpeg)
+因NLPPGit字库问题，以及大量文本未进行校对，导入本文档字幕文件后基本属于不可用状态。[IMG_0240](https://user-images.githubusercontent.com/80207563/110263053-7e227c80-7ff0-11eb-8fc5-b7c2c98b3022.jpeg)
 
 1.根目录下程序文件为开发文件，均运行在 python3 环境下，全部为本人自主开发——
 	xml2text.py 可以实现由.xml文件转.txt文件；
@@ -19,6 +19,8 @@
 
 4.CHNdbin2文件夹内已打包为.dbin2游戏数据文件的字幕文件
 	-已经完成机翻
+
+受精力及能力所限，本人不在对本文档进行后续开发。
 
 *本文档开发所使用的源文件来源于项目 https://github.com/Makein/NLPPGit
 
